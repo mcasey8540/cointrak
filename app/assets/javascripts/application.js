@@ -12,6 +12,10 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require bootstrap
+//= require jquery.ui.datepicker
+//= require jquery.ui.sortable
+//= require lib/bootstrap.min
 //= require turbolinks
+//= require lib/angular.min
+//= require lib/angular-resource.min
 //= require_tree .
